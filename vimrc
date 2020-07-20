@@ -1,6 +1,4 @@
 filetype off
-call pathogen#incubate()
-call pathogen#helptags()
 
 :syntax enable
 
